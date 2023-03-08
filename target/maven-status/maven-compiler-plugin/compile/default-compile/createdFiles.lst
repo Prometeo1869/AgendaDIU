@@ -1,0 +1,12 @@
+diu/iesvalleinclan/agenda/controller/PersonController$1.class
+diu/iesvalleinclan/agenda/service/impl/PersonServiceImpl.class
+diu/iesvalleinclan/agenda/controller/PersonController$2.class
+diu/iesvalleinclan/agenda/config/MyConfig.class
+diu/iesvalleinclan/agenda/model/dto/PersonDTO.class
+diu/iesvalleinclan/agenda/util/PersonConvert.class
+diu/iesvalleinclan/agenda/service/PersonService.class
+diu/iesvalleinclan/agenda/model/Person.class
+diu/iesvalleinclan/agenda/model/dto/PersonDTO$PersonDTOBuilder.class
+diu/iesvalleinclan/agenda/AgendaApplication.class
+diu/iesvalleinclan/agenda/repository/Connection.class
+diu/iesvalleinclan/agenda/controller/PersonController.class
